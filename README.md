@@ -8,4 +8,4 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/:466338331022852116)](https://discord.com/users/:466338331022852116)
+[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/:466338331022852116)
